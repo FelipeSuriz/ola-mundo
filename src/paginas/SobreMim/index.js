@@ -1,3 +1,3 @@
 export default function SobreMim() {
-    return <div>Sobre mim...</div>
+    return <h1>Sobre mim...</h1>
 }
